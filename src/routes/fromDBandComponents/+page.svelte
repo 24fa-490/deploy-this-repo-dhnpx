@@ -7,7 +7,7 @@
 	function containerClicked(container) {
 		console.log('Container clicked:', container.containerNumber);
 		if (container) {
-			clickedContainerNumber = container.containerNumber
+			clickedContainerNumber = container.containernumber
 		}
 	}
 </script>
